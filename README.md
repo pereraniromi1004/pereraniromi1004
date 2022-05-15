@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **pereraniromi1004/pereraniromi1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Image](https://i.postimg.cc/NLh73p32/image.png)
