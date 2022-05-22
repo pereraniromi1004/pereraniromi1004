@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 ![Image](https://i.postimg.cc/NLh73p32/image.png)
 
+Find me on:
+
+Medium: https://medium.com/@pereraniromi1004 </br>
+Kaggle: https://www.kaggle.com/mnsb1004
+Linkedin : https://www.linkedin.com/in/niromi-perera-bbb39a169/
 
