@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 Find me on:
 
 Medium: https://medium.com/@pereraniromi1004 </br>
-Kaggle: https://www.kaggle.com/mnsb1004
+Kaggle: https://www.kaggle.com/mnsb1004 </br>
 Linkedin : https://www.linkedin.com/in/niromi-perera-bbb39a169/
 
